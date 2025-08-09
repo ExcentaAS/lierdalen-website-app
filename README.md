@@ -1,1 +1,1 @@
-# lierdalen-website
+Test av gitquick alias
